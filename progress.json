@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-10-07T18:23:45.804Z",
+  "items": {
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-10-07T16:56:29.146Z",
+      "last_pushed_at": "2026-10-07T16:56:29.146Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-10-07T17:03:51.943Z",
+      "last_pushed_at": "2026-10-07T17:03:51.943Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-10-07T17:30:15.867Z",
+      "last_pushed_at": "2026-10-07T17:30:15.867Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:356": {
+      "kind": "problem",
+      "id": "356",
+      "title": "Label Encoding for Ordinal Variables",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/356",
+      "path": "problems/0356-label-encoding-for-ordinal-variables",
+      "first_solved_at": "2026-10-07T18:01:50.841Z",
+      "last_pushed_at": "2026-10-07T18:01:50.841Z",
+      "language": "python",
+      "lines": 25
+    }
+  }
+}
