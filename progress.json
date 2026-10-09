@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:45:37.321Z",
+  "generated_at": "2026-10-09T10:51:30.287Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -452,6 +452,19 @@
       "last_pushed_at": "2026-10-09T10:45:35.674Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-10-09T10:51:28.464Z",
+      "last_pushed_at": "2026-10-09T10:51:28.464Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
